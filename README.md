@@ -1,3 +1,3 @@
 ## Learning Node JS by Doing Challenges
 
-This repository contains  CRUD (Create, Read, Update, Delete) operation challenge.
+  CRUD (Create, Read, Update, Delete) operation challenge using FS modules in Node JS
